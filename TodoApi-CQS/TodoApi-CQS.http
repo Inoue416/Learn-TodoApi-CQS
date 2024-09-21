@@ -1,0 +1,6 @@
+@TodoApi_CQS_HostAddress = http://localhost:5290
+
+GET {{TodoApi_CQS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
